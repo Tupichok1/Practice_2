@@ -1,0 +1,8 @@
+{
+    "name": "Schema 1",
+    "tuples_limit": 10,
+    "structure": {
+        "t1": ["c1", "c2", "c3", "c4"],
+        "t2": ["c1", "c2"]
+    }
+}
